@@ -31,7 +31,7 @@
 [4](https://docs.unity3d.com/ScriptReference/BoxCollider.html)
 [5](https://answers.unity.com/questions/1705385/box-collider-help.html)
 
-# Unity Tips
+# Unity 
 [1](https://www.gamedeveloper.com/design/50-tips-and-best-practices-for-unity-2016-edition-)
 [2](https://airsource.co.uk/blog/2016/03/16/10-hot-tips-for-unity-scripting/)
 [3](https://learn.unity.com/tutorial/unity-tips#)
@@ -44,5 +44,23 @@
 [3](https://assetstore.unity.com/packages/2d/characters/character-editor-4d-megapack-147364)
 [4](https://assetstore.unity.com/packages/2d/characters/fantasy-army-characters-pack2-221719)
 [5](https://assetstore.unity.com/packages/2d/gui/animal-world-gui-pack-62974)
+
+# Unity Camera
+[1](https://www.youtube.com/watch?v=QzvXOrBI5Yw)
+[2](https://www.youtube.com/watch?v=DXri5QRC3HU)
+[3](https://www.youtube.com/watch?v=xvyrzwwU1DE)
+[4](https://www.youtube.com/watch?v=kB2bdBDWUs8)
+[5](https://unity.com/how-to/add-dynamic-beautiful-shots-your-projects-cinemachine)
+
+# Components
+[What is components](https://www.youtube.com/watch?v=5-pFgHhkwT0)
+[Adding Components with Code](https://www.youtube.com/watch?v=f6vStCSCwFQ)
+[3](https://www.youtube.com/watch?v=Zn9e_lTfYkw)
+[4](https://docs.unity3d.com/Manual/Components.html)
+[5](https://www.javatpoint.com/unity-components)
+
+
+
+
 
 
