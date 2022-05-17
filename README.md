@@ -23,3 +23,26 @@
 [3](http://cgcookie.com/posts/30-things-every-unity-developer-should-know)
 [4](https://www.toptal.com/unity-unity3d/tips-and-practices)
 [5](https://medium.com/ironequal/8-gamedev-unity-essential-beginner-tips-a80d80a8ae78)
+
+# Box Collider
+[1](https://learntutorials.net/sv/unity3d/topic/4405/kollision)
+[2](https://docs.unity3d.com/Manual/class-BoxCollider.html)
+[3](https://docs.unity3d.com/560/Documentation/Manual/class-BoxCollider2D.html)
+[4](https://docs.unity3d.com/ScriptReference/BoxCollider.html)
+[5](https://answers.unity.com/questions/1705385/box-collider-help.html)
+
+# Unity Tips
+[1](https://www.gamedeveloper.com/design/50-tips-and-best-practices-for-unity-2016-edition-)
+[2](https://airsource.co.uk/blog/2016/03/16/10-hot-tips-for-unity-scripting/)
+[3](https://learn.unity.com/tutorial/unity-tips#)
+[4](https://www.youtube.com/watch?v=thA3zv0IoUM)
+[5](https://www.youtube.com/watch?v=4NNAYvhCWjQ)
+
+# Unity Sprites with €
+[1](https://assetstore.unity.com/packages/2d/characters/character-editor-megapack-116375)
+[2](https://assetstore.unity.com/packages/2d/characters/2d-pixel-unit-maker-spum-188715)
+[3](https://assetstore.unity.com/packages/2d/characters/character-editor-4d-megapack-147364)
+[4](https://assetstore.unity.com/packages/2d/characters/fantasy-army-characters-pack2-221719)
+[5](https://assetstore.unity.com/packages/2d/gui/animal-world-gui-pack-62974)
+
+
