@@ -17,3 +17,8 @@
 [5](https://assetstore.unity.com/packages/3d/props/weapons/3d-low-poly-ak47-and-m16-217961)
 
 # Unity Tips
+[1](https://www.gamedeveloper.com/design/50-tips-and-best-practices-for-unity-2016-edition-)
+[2](https://medium.com/swlh/top-10-unity-tricks-that-most-people-dont-take-advantage-of-6e3aae59d9da)
+[3](http://cgcookie.com/posts/30-things-every-unity-developer-should-know)
+[4](https://www.toptal.com/unity-unity3d/tips-and-practices)
+[5](https://medium.com/ironequal/8-gamedev-unity-essential-beginner-tips-a80d80a8ae78)
