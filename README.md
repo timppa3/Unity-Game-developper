@@ -19,6 +19,7 @@
 [5](https://assetstore.unity.com/packages/3d/props/weapons/3d-low-poly-ak47-and-m16-217961)
 
 # Unity Tips
+## Här kommer några länkar som kan vara nödväninga för unity till nybörjare
 [1](https://www.gamedeveloper.com/design/50-tips-and-best-practices-for-unity-2016-edition-)
 [2](https://medium.com/swlh/top-10-unity-tricks-that-most-people-dont-take-advantage-of-6e3aae59d9da)
 [3](http://cgcookie.com/posts/30-things-every-unity-developer-should-know)
@@ -26,6 +27,7 @@
 [5](https://medium.com/ironequal/8-gamedev-unity-essential-beginner-tips-a80d80a8ae78)
 
 # Box Collider
+## Box Collider är en grundläggande kubformad kollision
 [1](https://learntutorials.net/sv/unity3d/topic/4405/kollision)
 [2](https://docs.unity3d.com/Manual/class-BoxCollider.html)
 [3](https://docs.unity3d.com/560/Documentation/Manual/class-BoxCollider2D.html)
@@ -33,6 +35,7 @@
 [5](https://answers.unity.com/questions/1705385/box-collider-help.html)
 
 # Unity 
+## vad är unity
 [1](https://www.gamedeveloper.com/design/50-tips-and-best-practices-for-unity-2016-edition-)
 [2](https://airsource.co.uk/blog/2016/03/16/10-hot-tips-for-unity-scripting/)
 [3](https://learn.unity.com/tutorial/unity-tips#)
@@ -40,6 +43,7 @@
 [5](https://www.youtube.com/watch?v=4NNAYvhCWjQ)
 
 # Unity Sprites with €
+## olika karaktärer till spel man kan använda men det kostar
 [1](https://assetstore.unity.com/packages/2d/characters/character-editor-megapack-116375)
 [2](https://assetstore.unity.com/packages/2d/characters/2d-pixel-unit-maker-spum-188715)
 [3](https://assetstore.unity.com/packages/2d/characters/character-editor-4d-megapack-147364)
@@ -47,6 +51,7 @@
 [5](https://assetstore.unity.com/packages/2d/gui/animal-world-gui-pack-62974)
 
 # Unity Camera
+## Tips om hur man använda kamera i unity
 [1](https://www.youtube.com/watch?v=QzvXOrBI5Yw)
 [2](https://www.youtube.com/watch?v=DXri5QRC3HU)
 [3](https://www.youtube.com/watch?v=xvyrzwwU1DE)
@@ -54,6 +59,7 @@
 [5](https://unity.com/how-to/add-dynamic-beautiful-shots-your-projects-cinemachine)
 
 # Components
+## vad är components video och netsidor
 [What is components](https://www.youtube.com/watch?v=5-pFgHhkwT0)
 [Adding Components with Code](https://www.youtube.com/watch?v=f6vStCSCwFQ)
 [3](https://www.youtube.com/watch?v=Zn9e_lTfYkw)
